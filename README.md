@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ayushgautam7
-- 👀 I’m interested in android development 
+- 👋 Hi, I’m Ayush Gautam
+
 
 
 <!---
